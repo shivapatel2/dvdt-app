@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "apk_url": "https://github.com/shivapatel2/dvdt-app/releases/download/v1.0.1/app-release.apk",
+  "release_notes": "Premium theme overhaul\nReal-time profile data fetching\nOTP mobile link binding",
+  "force_update": true
+}
