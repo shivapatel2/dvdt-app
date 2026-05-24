@@ -1,6 +1,9 @@
 {
-  "version": "1.0.1",
-  "apk_url": "https://github.com/shivapatel2/dvdt-app/releases/download/v1.0.1/app-release.apk",
-  "release_notes": "Premium theme overhaul\nReal-time profile data fetching\nOTP mobile link binding",
-  "force_update": true
+  "version": "1.0.0", 
+  "apk_url": "https://github.com/shivapatel2/dvdt-app/releases/download/v1.0.0/app-release.apk",
+  "release_notes": "No new updates.",
+  "force_update": false,
+  
+  "maintenance_mode": true,
+  "maintenance_message": "Scheduled database tuning is in progress. We'll be back online in 10 minutes!"
 }
